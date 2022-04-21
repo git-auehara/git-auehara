@@ -1,10 +1,20 @@
+### Hi colleagues, Welcome!  
+
+![](https://media.giphy.com/media/zoFBRfQo68Zqw/giphy.gif)
+
+<p>
+    <font size=3>
+        My name is Alberto Uehara
+    </font>
+</p>
+
+---
+
+<a href="https://www.linkedin.com/in/albertouehara/">
+  <img align="left" alt="Alberto Uehara's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=git-auehara.git-auehara)
 
 
 
-
-### Contatos
-
-<div>
-    <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>

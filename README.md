@@ -12,9 +12,7 @@
 
 ## Programming Languages
 
-- [x] Java SE 8 <br>
-   
-- [x] Python
+- [x] Java SE 8 - [x] Python
 - [x] Perl
 
 

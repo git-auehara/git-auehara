@@ -12,8 +12,17 @@
 
 ## Programming Languages
 
-- [x] Java SE 8 - [x] Python
+- [x] Java SE 8
+- [x] Python
 - [x] Perl
+
+<table border="0">
+<tr>
+  <td>Java SE 8</td>
+  <td>Java SE 8</td>
+</tr>
+
+</table>
 
 
 ## Databases

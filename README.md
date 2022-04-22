@@ -12,11 +12,17 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </td>
   <td>
-     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+     <img width=100px src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   </td>
 </tr>
 
 </table>
+
+<div style="background:red">
+asd
+
+</div>
+
 
 
 ## Programming Languages

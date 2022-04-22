@@ -6,13 +6,15 @@
 
 ## Programming Languages
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] Java SE 8
+- [x] Perl
+- [x] Python
 
 
 ## Databases
 
-
+- [x] Oracle
+- [x] Mysql
+- [x] MongoDB
 
 

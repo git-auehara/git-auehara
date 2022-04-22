@@ -14,7 +14,8 @@
 ## Databases
 
 - [x] Oracle Database <br>
-  PL/SQL, Uploader
+  PL/SQL, Uploader<br>
+
 - [x] Mysql
 - [x] MongoDB
 

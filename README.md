@@ -14,9 +14,9 @@
 ## Databases
 
 - [x] Oracle Database <br>
-  PL/SQL, Uploader<br>
+  Oracle SQL Developer, Oracle SQL Loader, PL/SQL
 
-- [x] Mysql
+- [x] Mysql Database
 - [x] MongoDB
 
 

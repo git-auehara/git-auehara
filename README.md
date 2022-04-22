@@ -7,13 +7,14 @@
 ## Programming Languages
 
 - [x] Java SE 8
-- [x] Perl
 - [x] Python
+- [x] Perl
 
 
 ## Databases
 
-- [x] Oracle
+- [x] Oracle Database
+  PL/SQL, Uploader
 - [x] Mysql
 - [x] MongoDB
 

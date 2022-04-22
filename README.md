@@ -6,12 +6,7 @@
 
 ## Operating System
 
-
-aa|bb|cc
---|--|--
-ee|ff|gg
-
-<table style="border:none">
+<table style="border: 1px solid black">
 <tr>
   <td>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">

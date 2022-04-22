@@ -6,9 +6,19 @@
 
 ## Operating System
 
-- [x] Windows 
-- [x] Linux
-- [x] Unix
+
+<table>
+<tr>
+  <td>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  </td>
+  <td>
+     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  </td>
+</tr>
+
+</table>
+
 
 ## Programming Languages
 
@@ -16,13 +26,7 @@
 - [x] Python
 - [x] Perl
 
-<table border="0">
-<tr>
-  <td>Java SE 8</td>
-  <td>Java SE 8</td>
-</tr>
 
-</table>
 
 
 ## Databases

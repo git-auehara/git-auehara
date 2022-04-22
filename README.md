@@ -3,6 +3,9 @@
 
 ### Let me introduce myself. My name is Uehara, I live in Brazil, São Paulo. I work with IT and i love hardware hacking, bug bounty, programming, automation tests. Below follow my contacts.
 
+---
+
+
 <table style="border:0">
   <tr>
     <td>sss</td>
